@@ -1,17 +1,8 @@
 ## lakeFm (Maks Makuta)
 
-I'm currently learn computer science in Lesya Ukrainka Eastern European National University <br>
-Love coding and music...
-
+I'm currently learn computer science in Lesya Ukrainka Volyn National University. <br>
 My favorite programming languages is: Java, Kotlin, C/C++ <br>
 
-If you want you can support me here: <br>
+[<img src="img/donate.png" width="250">](donate.md)
 
-PayPal -> maksmakuta227 (AT) gmail (DOT) com <br>
-BTC -> 32TJJytmNRRkLERdVh4bgEtjPAGJUArssL<br>
-ETH -> 0xcdf9001df4ffcdaa4fad4833de4f169e0e03691b<br>
-DOGE -> DQrRkmDppTTP1vUZEuWqoxpaMGHhPVGENR<br>
-LTC -> LLVvXFWPyco3i3NxBULmgeT5jTJguB3MLA<br>
-XMR -> 8AmHqCop4jVQze5aqqAwLE3pQJjfumJrhYenBHe4awkbVHtBbGFytxsdL7zWcYQjGpZoUD5uLMDwnUMYQfH15EKb9ZMy75A<br>
-
- <!-- Last Update 14.12.2020 -->
+ <!-- Last Update 25.02.2021 -->
