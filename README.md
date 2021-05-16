@@ -4,7 +4,7 @@ ___
                                             -----------------
                                             University : Lesya Ukrainka Volyn National University.
                                             Learn : Computer Science
-                                            Year : 2
+                                            Year : 2 (sem 4)
                                             Liked Langs : C/C++, Java, Kotlin
                                             Frameworks/Libs : QT, Android
                                             OS : Linux (PC), Android (Mobile)
@@ -25,14 +25,14 @@ ___
           -osssssso.      :ssssssso.        Theme: Materia Dark [Plasma], Materia-dark [GTK2/3]
          :osssssss/        osssso+++.       Icons: El General [Plasma], El General [GTK2/3]
         /ossssssss/        +ssssooo/-       Terminal: konsole
-       /ossssso+/:-        -:/+osssso+-     CPU: Intel i3-8130U (4) @ 3.400GHz
-      +sso+:-`                 `.-/+oso:    GPU: Intel UHD Graphics 620
-     ++:.                           `-/+/   GPU: NVIDIA GeForce MX150 (2GB GDDR4)
-    ./                                 `/   Memory: 8/256 GB
+       /ossssso+/:-        -:/+osssso+-     CPU: Intel i3-8130U (2 core, 2 threads) @ 3.400 GHz
+      +sso+:-`                 `.-/+oso:    GPU: Intel UHD Graphics 620 (free intel driver)
+     ++:.                           `-/+/   GPU: NVIDIA GeForce MX150 (2GB GDDR5) (proprietary driver [DKMS])
+    ./                                 `/   Memory: RAM - 8(DDR4 2400Mhz), ROM - 256 GB (SSD m.2 )
 
 ___
 
 
 
 
- <!-- Last Update 14.05.2021 -->
+ <!-- Last Update 16.05.2021 -->
