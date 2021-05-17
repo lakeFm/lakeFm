@@ -23,9 +23,9 @@ ___
             ./ooosssso++osssssso+`          WM: KWin
            .oossssso-````/ossssss+`         WM Theme: Materia-Dark
           -osssssso.      :ssssssso.        Theme: Materia Dark [Plasma], Materia-dark [GTK2/3]
-         :osssssss/        osssso+++.       Icons: El General [Plasma], El General [GTK2/3]
+         :osssssss/        osssso+++.       Icons: Flatery-Dark [Plasma], Flatery-Dark [GTK2/3]
         /ossssssss/        +ssssooo/-       Terminal: konsole
-       /ossssso+/:-        -:/+osssso+-     CPU: Intel i3-8130U (2 core, 2 threads) @ 3.400 GHz
+       /ossssso+/:-        -:/+osssso+-     CPU: Intel i3-8130U (2 core, 4 threads) @ 3.400 GHz
       +sso+:-`                 `.-/+oso:    GPU: Intel UHD Graphics 620 (free intel driver)
      ++:.                           `-/+/   GPU: NVIDIA GeForce MX150 (2GB GDDR5) (proprietary driver [DKMS])
     ./                                 `/   Memory: RAM - 8(DDR4 2400Mhz), ROM - 256 GB (SSD m.2 )
