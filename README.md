@@ -3,8 +3,8 @@ ___
                                             lakeFm@MaksMakuta
                                             -----------------
                                             University : Lesya Ukrainka Volyn National University.
-                                            Learn : Computer Science
-                                            Year : 2 (sem 4)
+                                            Learn : Computer Science (Bachelor degree)
+                                            Year : 3 (sem 5)
                                             Liked Langs : C/C++, Java, Kotlin
                                             Frameworks/Libs : QT, Android
                                             OS : Linux (PC), Android (Mobile)
@@ -14,12 +14,12 @@ ___
                      .o+`                   -----------
                     `ooo/                   OS: Arch Linux x86_64
                    `+oooo:                  Host: Aspire A515-51G V2.02
-                  `+oooooo:                 Kernel: 5.12.3-zen1-1-zen
+                  `+oooooo:                 Kernel: 5.12.10-zen1-1-zen
                   -+oooooo+:                BootLoader: systemd-boot
-                `/:-:++oooo+:               Packages: 1025 (pacman)
+                `/:-:++oooo+:               Packages: 830 (pacman)
                `/++++/+++++++:              Shell: zsh 5.8
               `/++++++++++++++:             Resolution: 1920x1080
-              /+++ooooooooooooo/`           DE: Plasma 5.21.5
+              /+++ooooooooooooo/`           DE: Plasma 5.22.0
             ./ooosssso++osssssso+`          WM: KWin
            .oossssso-````/ossssss+`         WM Theme: Materia-Dark
           -osssssso.      :ssssssso.        Theme: Materia Dark [Plasma], Materia-dark [GTK2/3]
@@ -35,4 +35,4 @@ ___
 
 
 
- <!-- Last Update 16.05.2021 -->
+ <!-- Last Update 13.06.2021 -->
